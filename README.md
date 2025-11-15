@@ -62,12 +62,13 @@ git clone https://github.com/nsroyale9740/module_4_functions_-_modules_in_python
 
 Change into the project directory:
 
-cd module_4_functions_-_modules_in_python
+cd module_4_functions_&_modules_in_python
 
 
 Run each script:
 
 python task1_calculate_factorial.py
+
 python task2_math_modules.py
 
 Use python3 instead of python if your system requires that.

@@ -1,5 +1,12 @@
 n = int(input("Enter a number to calculate its factorial: "))
 
+'''
+This script calculates the factorial of a given number using different methods:
+1. For loop
+2. While loop
+3. Recursion
+'''
+
 #with for loop
 
 # def factorial(n):

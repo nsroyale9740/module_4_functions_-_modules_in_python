@@ -12,7 +12,6 @@ def calculate_logarithm(num):
     return math.log(num)
 
 def calculate_sine(num):
-    if num <= 0:
         return math.sin(num)
 
 # calculate_square_root(num)
